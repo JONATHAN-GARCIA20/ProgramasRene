@@ -11,6 +11,8 @@
 
 ### Video funcionando los primeros 10 programas
 
+https://asciinema.org/a/I12vXMd4AGMc55rde62rRgc4s
+
 ```
 
 ```
