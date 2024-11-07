@@ -14,9 +14,3 @@
 ```
 
 ```
-### Código de Recepción y Transmisión Serial:
-
-```
-
-```
-# Captura de funcionaminto.
