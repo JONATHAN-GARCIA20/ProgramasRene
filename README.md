@@ -13,6 +13,8 @@
 
 https://asciinema.org/a/dj85vW0pX5C2JM6dtd0KZqMlP
 
+### Video funcionando los segundos 10 programas
+
 ```
 
 ```
