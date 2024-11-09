@@ -11,7 +11,7 @@
 | Funcionaminto del ejercicio 11 al 20         | https://asciinema.org/a/0fCjX4IqoX4LnuffIwpQiWEGV        |
 | Funcionaminto del ejercicio 21 al 30         | https://asciinema.org/a/1USV0VHC3rVz46Hpgwt2Buqwm        |
 | Funcionaminto del ejercicio 31 al 40         | https://asciinema.org/a/PuZbbA9QL2L8zdGlmbZumsv77        |
-| Funcionaminto del ejercicio 41 al 50         | [Ver Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+| Funcionaminto del ejercicio 41 al 50         | https://asciinema.org/a/uasSXuaAOXlUxwqRn75OtTpH4        |
 
 
 
