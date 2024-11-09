@@ -18,14 +18,6 @@
 | Funcionaminto del ejercicio 31 al 40         | [Ver Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 | Funcionaminto del ejercicio 41 al 50         | [Ver Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 
-### Video funcionando los primeros 10 programas
 
-https://asciinema.org/a/dj85vW0pX5C2JM6dtd0KZqMlP
 
-### Video funcionando los segundos 10 programas
 
-https://asciinema.org/a/0fCjX4IqoX4LnuffIwpQiWEGV
-
-```
-
-```
