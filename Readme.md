@@ -1,13 +1,8 @@
 
 ![cooltext469746736423316](https://github.com/user-attachments/assets/28ef88c4-825e-4ac1-9e68-c7cad4b195aa)
+![cooltext469747462774615](https://github.com/user-attachments/assets/91aee4bf-0db9-4e12-a30b-15ed187932cb)
 
-# Instituto Tecnológico de Tijuana
 
-## Interfaz
-
-**Maestro:** René Solís  
-**Alumno:** Garcia Santos Jonathan  
-**Matrícula:** 22210307  
 
 ---
 | Título del Video                             | Enlace del Video                                         |
