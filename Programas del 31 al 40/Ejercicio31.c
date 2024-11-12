@@ -12,6 +12,9 @@
  ║                           Septiembre 2024                          ║
  ╚════════════════════════════════════════════════════════════════════╝
 
+//Video
+https://asciinema.org/a/PuZbbA9QL2L8zdGlmbZumsv77
+
 // Preoblema en C#
 
 using System;
