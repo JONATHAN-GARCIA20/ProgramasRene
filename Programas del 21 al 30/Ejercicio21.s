@@ -12,6 +12,9 @@
  ║                           Septiembre 2024                          ║
  ╚════════════════════════════════════════════════════════════════════╝
 
+//Video
+https://asciinema.org/a/1USV0VHC3rVz46Hpgwt2Buqwm
+
 //Programa en C#
 
 using System;
