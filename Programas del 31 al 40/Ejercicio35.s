@@ -12,6 +12,9 @@
  ║                           Noviembre 2024                           ║
  ╚════════════════════════════════════════════════════════════════════╝
 
+//Video
+https://asciinema.org/a/PuZbbA9QL2L8zdGlmbZumsv77
+
 // Problema en C#
 
 using System;
