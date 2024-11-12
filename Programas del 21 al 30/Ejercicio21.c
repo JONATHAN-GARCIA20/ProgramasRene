@@ -12,6 +12,9 @@
  ║                           Septiembre 2024                          ║
  ╚════════════════════════════════════════════════════════════════════╝
 
+//Video
+https://asciinema.org/a/1USV0VHC3rVz46Hpgwt2Buqwm
+
 */
 
 // Declaración de la función en ensamblador
